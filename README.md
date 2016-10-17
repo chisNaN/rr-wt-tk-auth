@@ -1,6 +1,6 @@
 #React router webtask token authentication
 
->Repo that combines [react router async flow auth](https://github.com/ReactTraining/react-router/blob/master/examples/auth-flow-async-with-query-params/app.js) and [JSON web token](https://github.com/chisNaN/wt-auth-token/blob/master/README.md) on Webtask.io FaaS
+>Repo that combines [react router async flow auth](https://github.com/ReactTraining/react-router/blob/master/examples/auth-flow-async-with-query-params/app.js) and [JSON web token auth](https://github.com/chisNaN/wt-auth-token/blob/master/README.md) on Webtask.io FaaS
 
 :bulb: The webtask function will return a token if the POSTED username is equal to "chisNaN"
 
